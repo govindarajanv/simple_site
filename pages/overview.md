@@ -104,4 +104,4 @@ Read about the [kramdown syntax](https://kramdown.gettalong.org/syntax.html)
 or just look at the
 [quick reference](https://kramdown.gettalong.org/quickref.html).
 
-Now read more about the same on [how to make an independent website](independent_site.html).
+Please read more at [how to make an independent website](independent_site.html).
