@@ -8,12 +8,6 @@ This is a minimal tutorial to get started.
 View the thing [here](https://govindarajanv.github.io/simple_site/).
 
 ---
-
-To the extent possible under law,
-[Karl Broman](https://github.com/kbroman)
-has waived all copyright and related or neighboring rights to
-&ldquo;[simple site](https://github.com/kbroman/simple_site)&rdquo;.
-This work is published from the United States.
 <br/>
 
 [CircleCI Site](https://circleci.com/docs/) <br/>
